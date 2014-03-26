@@ -10,7 +10,7 @@
 */
 
 .ui-widget {
-  font-family: Lucida Grande, Lucida Sans, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 11px;
 }
 
@@ -19,7 +19,7 @@ body {
   color: #000;
   margin: 0px;
   font-size: 11px;
-  font-family: Lucida Grande, Lucida Sans, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
 }
 
 #bodyWrapper {
@@ -139,11 +139,11 @@ table, p {
   float: right;
 }
 
-.boxText { font-family: Verdana, Arial, sans-serif; font-size: 10px; }
-.errorBox { font-family : Verdana, Arial, sans-serif; font-size : 10px; background: #ffb3b5; font-weight: bold; }
-.stockWarning { font-family : Verdana, Arial, sans-serif; font-size : 10px; color: #cc0033; }
+.boxText { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; }
+.errorBox { font-family : Verdana, Helvetica, sans-serif; font-size : 10px; background: #ffb3b5; font-weight: bold; }
+.stockWarning { font-family : Verdana, Helvetica, sans-serif; font-size : 10px; color: #cc0033; }
 .productsNotifications { background: #f2fff7; }
-.orderEdit { font-family : Verdana, Arial, sans-serif; font-size : 10px; color: #70d250; text-decoration: underline; }
+.orderEdit { font-family : Verdana, Helvetica, sans-serif; font-size : 10px; color: #70d250; text-decoration: underline; }
 
 A {
   color: #000000;
@@ -167,7 +167,7 @@ TR.headerNavigation {
 }
 
 TD.headerNavigation {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
   background: #bbc3d3;
   color: #ffffff;
@@ -187,7 +187,7 @@ TR.headerError {
 }
 
 TD.headerError {
-  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   background: #ff0000;
   color: #ffffff;
@@ -200,7 +200,7 @@ TR.headerInfo {
 }
 
 TD.headerInfo {
-  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   background: #00ff00;
   color: #ffffff;
@@ -213,7 +213,7 @@ TR.footer {
 }
 
 TD.footer {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
   background: #bbc3d3;
   color: #ffffff;
@@ -230,12 +230,12 @@ TD.footer {
 
 .infoBoxNoticeContents {
   background: #FFE6E6;
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
 }
 
 TD.infoBoxHeading {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
   font-weight: bold;
   background: #bbc3d3;
@@ -243,7 +243,7 @@ TD.infoBoxHeading {
 }
 
 TD.infoBox, SPAN.infoBox {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
 }
 
@@ -286,7 +286,7 @@ A.pageResults:hover {
 }
 
 TD.pageHeading, DIV.pageHeading {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 20px;
   font-weight: bold;
   color: #9a9a9a;
@@ -297,53 +297,53 @@ TR.subBar {
 }
 
 TD.subBar {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
   color: #000000;
 }
 
 TD.main, P.main {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 11px;
   line-height: 1.5;
 }
 
 TD.smallText, SPAN.smallText, P.smallText {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
 }
 
 TD.accountCategory {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 13px;
   color: #aabbdd;
 }
 
 TD.tableHeading {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: bold;
 }
 
 SPAN.newItemInCart {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 10px;
   color: #ff0000;
 }
 
 CHECKBOX, INPUT, RADIO, SELECT {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 11px;
 }
 
 TEXTAREA {
   width: 100%;
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 11px;
 }
 
 SPAN.greetUser {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   color: #f0a480;
   font-weight: bold;
@@ -357,25 +357,25 @@ TABLE.formArea {
 }
 
 TD.formAreaTitle {
-  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: bold;
 }
 
 SPAN.markProductOutOfStock {
-  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 12px;
   color: #c76170;
   font-weight: bold;
 }
 
 SPAN.productSpecialPrice {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   color: #ff0000;
 }
 
 SPAN.errorText {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, Helvetica, sans-serif;
   color: #ff0000;
 }
 
@@ -383,18 +383,18 @@ SPAN.errorText {
 .moduleRowOver { background-color: #D7E9F7; cursor: pointer; cursor: hand; }
 .moduleRowSelected { background-color: #E9F4FC; }
 
-.checkoutBarFrom, .checkoutBarTo { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #8c8c8c; }
-.checkoutBarCurrent { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000000; }
+.checkoutBarFrom, .checkoutBarTo { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; color: #8c8c8c; }
+.checkoutBarCurrent { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; color: #000000; }
 
 /* message box */
 
 .messageBox { font-family: Verdana, Arial, sans-serif; font-size: 10px; }
-.messageStackError, .messageStackWarning { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: #ffb3b5; }
-.messageStackSuccess { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: #99ff00; }
+.messageStackError, .messageStackWarning { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; background-color: #ffb3b5; }
+.messageStackSuccess { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; background-color: #99ff00; }
 
 /* input requirement */
 
-.inputRequirement { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #ff0000; }
+.inputRequirement { font-family: Verdana, Helvetica, sans-serif; font-size: 10px; color: #ff0000; }
 
 /* buttons */
 
