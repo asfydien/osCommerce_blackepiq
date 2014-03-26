@@ -1118,7 +1118,7 @@ INSERT INTO currencies VALUES (1,'Rupiah','IDR','Rp','','.',',','2','1.0000', no
 INSERT INTO currencies VALUES (2,'U.S. Dollar','USD','$','','.',',','2','1.0000', now());
 INSERT INTO currencies VALUES (3,'Euro','EUR','','€','.',',','2','1.0000', now());
 
-INSERT INTO languages VALUES (1,'Indonesia','id','icon.gif','Indonesia',1);
+INSERT INTO languages VALUES (1,'Indonesia','id','icon.gif','indonesia',1);
 INSERT INTO languages VALUES (2,'English','en','icon.gif','english',2);
 
 INSERT INTO manufacturers VALUES (1,'Matrox','manufacturer_matrox.gif', now(), null);
